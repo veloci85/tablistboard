@@ -1,0 +1,122 @@
+{
+	"extensionName": {
+		"message": "Tab List Board"
+	},
+	"extensionDescription": {
+		"message": "提供分頁清單一覽看板，可以自由分類與切換開啟的分頁
+	},
+	"browserActionTitle": {
+		"message": "開啟 Tab List Board"
+	},
+	"newListName": {
+		"message": "新建清單"
+	},
+	"addTabButton": {
+		"message": "加入分頁"
+	},
+	"removeListButton": {
+		"message": "刪除此清單"
+	},
+	"removeListConfirm": {
+		"message": "確定要刪除「%s」嗎？<br>清單內的分頁將會全部關閉。"
+	},
+	"closeTabConfirm": {
+		"message": "確定要關閉「%s」嗎？"
+	},
+	"title": {
+		"message": "Tab List Board"
+	},
+	"configTitle": {
+		"message": "設定"
+	},
+	"configResetConfirm1": {
+		"message": "確定要刪除分頁清單的所有資料嗎？<br>若您的分頁清單出了問題，或是想把分頁清單砍掉重練時請使用這個功能。"
+	},
+	"configResetConfirm2": {
+		"message": "確定要將設定重置嗎？<br>若您想把設定值初始化，請使用這個功能。
+	},
+	"configResetConfirm3": {
+		"message": "確定要將分頁的未讀狀態重置嗎？<br>若 Firefox 重新啟動後所有的分頁都顯示為未讀狀態（黃底），請使用這個功能。"
+	},
+	"configResetDone": {
+		"message": "操作完成。"
+	},
+	"sidebarErrorMain": {
+		"message": "這裡會列出其他與目前分頁屬於同一分頁清單的分頁。"
+	},
+	"sidebarErrorNoinfo": {
+		"message": "無法取得分頁清單。請先按工具列上的分頁清單按鈕開啟 Tab List Board 再試試。
+	},
+	"sidebarOtherLists": {
+		"message": "其他清單"
+	},
+	"alertOk": {
+		"message": "確定"
+	},
+	"confirmOk": {
+		"message": "確定"
+	},
+	"confirmCancel": {
+		"message": "取消"
+	},
+	"menuMoveToList": {
+		"message": "移到其他清單"
+	},
+	"menuSeparateTab": {
+		"message": "分離這個分頁"
+	},
+	"menuSeparateAbove": {
+		"message": "分離這個以上的分頁"
+	},
+	"menuSeparateBelow": {
+		"message": "分離這個以下的分頁"
+	},
+	"menuSeparateDomain": {
+		"message": "分離同一網域的分頁"
+	},
+	"menuCopyText": {
+		"message": "複製文字"
+	},
+	"menuCopyUrl": {
+		"message": "網址"
+	},
+	"menuCopyTitle": {
+		"message": "標題"
+	},
+	"menuCopyBoth": {
+		"message": "標題和網址"
+	},
+	"menuMoveTop": {
+		"message": "移到最上面"
+	},
+	"menuMoveBottom": {
+		"message": "移到最下面"
+	},
+	"menuInsertLeft": {
+		"message": "Insert between the left column"
+	},
+	"menuInsertRight": {
+		"message": "Insert between the right column"
+	},
+	"menuReplaceLeft": {
+		"message": "和左欄交換"
+	},
+	"menuReplaceRight": {
+		"message": "和右欄交換"
+	},
+	"menuMergeList": {
+		"message": "合併到其他清單"
+	},
+	"menuSortTitle": {
+		"message": "依標題排列"
+	},
+	"menuSortAccess": {
+		"message": "依造訪時間排列"
+	},
+	"menuNoList": {
+		"message": "(沒有清單)"
+	},
+	"menuCancel": {
+		"message": "取消"
+	}
+}
